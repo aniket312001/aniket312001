@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aniket312001
-- 👀 I’m interested in python language, machine learning 
-- 🌱 I’m currently learning django  
+- 👀 I’m interested in Angular and NodeJs
+- 🌱 I’m currently Improving Angular Skills 
 - 📫 you can contact me using aniketchavan505@gmail.com
 
 <!---
