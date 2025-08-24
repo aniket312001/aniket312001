@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aniket312001
-- 👀 I’m interested in Angular and NodeJs
-- 🌱 I’m currently Improving Angular Skills 
+- 👋 Hi, I’m Aniket Chavan 
+- 👀 I’m interested in Fluter and NodeJs
+- 🌱 I’m currently Improving Mobile Development Skills 
 - 📫 you can contact me using aniketchavan505@gmail.com
 
 <!---
